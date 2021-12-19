@@ -1,11 +1,12 @@
 # EDMPorfolio
+This portfolio was created as part of an Educational Data Mining course that I had taken in Fall 2021. It consists of a reflective essay, four analysis challenge assignments (ACA), eight individual coding exercises (ICE), and a final crerative project. 
 
-## ACA
+## ACAs
 - [ACA 1](https://github.com/madelinemaeloa/EDMPorfolio/blob/main/ACA/ACA%201.html)
 - [ACA 2](https://github.com/madelinemaeloa/EDMPorfolio/blob/main/ACA/ACA%202.html)
 - [ACA 3](https://github.com/madelinemaeloa/EDMPorfolio/blob/main/ACA/ACA%203.html)
 - [ACA 4](https://github.com/madelinemaeloa/EDMPorfolio/blob/main/ACA/ACA%204.html)
-## ICE
+## ICEs
 - [ICE 1](https://github.com/madelinemaeloa/EDMPorfolio/blob/main/ICE/ICE%201.html)
 - [ICE 2](https://github.com/madelinemaeloa/EDMPorfolio/blob/main/ICE/ICE%202.html)
 - [ICE 3](https://github.com/madelinemaeloa/EDMPorfolio/blob/main/ICE/ICE%203.html)
